@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Eraliyev Javlon",
+    "info": "Backend Developer, Owner",
+    "imageUrl": "../assets/images/team/javlon.jpg",
+    "status": true
+  },
+  {
+    "name": "Saidakramov Avazxon",
+    "info": "Fullstack Developer",
+    "imageUrl": "../assets/images/team/avazxon.jpg",
+    "status": true
+  },
+  {
+    "name": "Madina Yariyeva",
+    "info": "Project Manager",
+    "imageUrl": "../assets/images/team/avatar.png",
+    "status": true
+  },
+  {
+    "name": "Isroilov Abdulloh",
+    "info": "Frontend Developer",
+    "imageUrl": "../assets/images/team/abdulloh.jpg",
+    "status": true
+  },
+  {
+    "name": "O'tkirbekov Abdurahim",
+    "info": "Backend Developer",
+    "imageUrl": "../assets/images/team/abdurahim.jpg",
+    "status": true
+  },
+  {
+    "name": "Kuchkarov Ahrorbek",
+    "info": "Fullstack Web and Mobile Developer",
+    "imageUrl": "../assets/images/team/avatar.png",
+    "status": true
+  },
+  {
+    "name": "Muhiddinov Asliddin",
+    "info": "Fullstack Developer",
+    "imageUrl": "../assets/images/team/asliddin.jpg",
+    "status": true
+  },
+  {
+    "name": "Akromov Said-Muhammad",
+    "info": "Frontend Developer",
+    "imageUrl": "../assets/images/team/saidmuhammad.jpg",
+    "status": true
+  },
+  {
+    "name": "Shukurov Xojiakbar",
+    "info": "Frontend Developer",
+    "imageUrl": "../assets/images/team/xojiakbar.jpg",
+    "status": true
+  },
+  {
+    "name": "Yoqubov Zuhriddin",
+    "info": "Mobile Developer",
+    "imageUrl": "../assets/images/team/zuhriddin.jpg",
+    "status": true
+  }
+]
