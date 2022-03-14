@@ -12,7 +12,7 @@
     "status": true
   },
   {
-    "name": "Madina Yariyeva",
+    "name": "Yariyeva Madina",
     "info": "Project Manager",
     "imageUrl": "../assets/images/team/avatar.png",
     "status": true
@@ -56,6 +56,12 @@
   {
     "name": "Yoqubov Zuhriddin",
     "info": "Mobile Developer",
+    "imageUrl": "../assets/images/team/zuhriddin.jpg",
+    "status": true
+  },
+  {
+    "name": "Karimov Odil",
+    "info": "React Developer",
     "imageUrl": "../assets/images/team/zuhriddin.jpg",
     "status": true
   }
